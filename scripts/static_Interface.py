@@ -4,7 +4,7 @@ def main():
     print("Reading flows from PCAP...\n")
 
     streamer = NFStreamer(
-        source="Packets\Capture_1.pcapng",
+        source="datasets\packets\Capture_1.pcapng",
         statistical_analysis=True
     )
 
