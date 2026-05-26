@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual environments
+nids-env/
+venv/
+
+# VSCode
+.vscode/
+
+# Temporary files
+tempCodeRunnerFile.py
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Models
+*.pt
+*.pkl
